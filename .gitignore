@@ -1,0 +1,8 @@
+*.env
+*.log
+/.env
+/node_modules
+node_modules
+env
+/coverage
+npm-debug.log*
