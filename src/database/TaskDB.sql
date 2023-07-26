@@ -24,6 +24,8 @@ CREATE TABLE projects (
     status VARCHAR(50)
 );
 
+
+
 -- Create the AssignedMembers table
 CREATE TABLE AssignedMembers (
     id INT PRIMARY KEY IDENTITY,
